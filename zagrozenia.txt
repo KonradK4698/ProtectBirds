@@ -1,0 +1,30 @@
+<View style={styles.zagrozenieKontener}>
+                    <Image style={styles.zagrozenieImg} source={require('../images/icons/nest.png')} />
+                    <Text style={styles.zagrozenieNaglowek}>Konkurencja o miejsca lęgowe</Text>
+                    <Text style={styles.zagrozenieOpis}>Ze względu na remonty elewacji i termomodernizacje budynków oraz wycinkę drzew i krzewów w parkach czy ogrodach oraz na terenach, na  których mają powstać inwestycje, stale zmniejsza się liczba naturalnych miejsc lęgowych. To co prawda zagrożenie wynikające z działalności człowieka, lecz   dla ptaków trudną sytuacją staje się konkurowanie z innymi gatunkami o miejsca lęgowe.</Text>
+                </View>
+                <View style={styles.zagrozenieKontener}>
+                    <Image style={styles.zagrozenieImg} source={require('../images/icons/predator.png')} />
+                    <Text style={styles.zagrozenieNaglowek}>Drapieżniki</Text>
+                    <Text style={styles.zagrozenieOpis}>Co prawda na terenach miejskich populacja drapieżników, które mogą zagrażać ptakom jest mniejsza niż poza miastem. Ale kuny, łasice, gronostaje, a nawet koty czy duże ptaki krukowate stanowią realne zagrożenie. Na przykład dzięcioł potrafi rozkuć otwór wlotowy budki, by zjeść jaja  mniejszych ptaków. </Text>
+                </View>
+                <View style={styles.zagrozenieKontener}>
+                    <Image style={styles.zagrozenieImg} source={require('../images/icons/climateDangerous.png')} />
+                    <Text style={styles.zagrozenieNaglowek}>Zagrożenia klimatyczne</Text>
+                    <Text style={styles.zagrozenieOpis}>Jeszcze jeden typ zagrożenia to te związane z ostrymi zimami. Mogą one wpływać na liczebność populacji małych ptaków, takich jak wróble, które zimują u nas i mogą być narażone na mróz i brak pokarmu. Dlatego tak wielkie znaczenie ma po pierwsze pozostawianie czystych budek lęgowych na zimę, by ptaki mogły się tam schronić, jak też dokarmianie ich. Ptaki zimą karmi się jednak tylko w okresach ostrego mrozu i należy pamiętać, żeby dokarmiać ptaki regularnie.</Text>
+                </View>
+                <View style={styles.zagrozenieKontener}>
+                    <Image style={styles.zagrozenieImg} source={require('../images/icons/naturalDangerous.png')} />
+                    <Text style={styles.zagrozenieNaglowek}>Ubożenie siedlisk przyrodniczych</Text>
+                    <Text style={styles.zagrozenieOpis}>Niektóre gatunki naturalnie funkcjonują na podmokłych łąkach pełnych wysokich traw czy też polach uprawnych. Jeżeli takie elementy środowiska zostaną usunięte podczas procesu urbanizacyjnego, ptaki nie znajdują tam już dłużej dla siebie miejsca. Nieco lepiej radzą sobie w takiej sytuacji ptaki leśne, które potrafią wykorzystać pozostałe na nowym terenie elementy zadrzewień w parkach, ogrodach czy na cmentarzach. Mimo wszystko różnorodność gatunków na takim zmienionym terenie będzie znacznie mniejsza.</Text>
+                </View>
+                <View style={styles.zagrozenieKontener}>
+                    <Image style={styles.zagrozenieImg} source={require('../images/icons/lackFood.png')} />
+                    <Text style={styles.zagrozenieNaglowek}>Zmniejszony dostęp do bazy pokarmowej</Text>
+                    <Text style={styles.zagrozenieOpis}>Ptaki w mieście korzystają z trzech źródeł pokarmu. Jedną z nich są wyrzucane przez ludzi odpadki. Niestety pośród nich znajduje się wiele rodzajów pokarmu, które szkodzą ptakom, na przykład pieczywo.  Kolejne źródło to naturalne żerowiska takie jak łąki, parki czy ogrody. Niestety nieużytków w miastach jest coraz mniej ze względu na dynamicznie postępujący proces urbanizacyjny. Regularne koszenie chwastów w parkach pozbawia ptaki wartościowego pokarmu, jakimi są nasiona tychże roślin, zaś jesienne grabienie liści sprawia, że zmniejsza się ilość dostępnych do spożycia bezkręgowców. </Text>
+                </View>
+                <View style={styles.zagrozenieKontener}>
+                    <Image style={styles.zagrozenieImg} source={require('../images/icons/animalInjury.png')} />
+                    <Text style={styles.zagrozenieNaglowek}>Bezpośrednie szkodliwe działanie człowieka</Text>
+                    <Text style={styles.zagrozenieOpis}>Akty wandalizmu dotyczące ptasich gniazd, choć stanowią przekroczenie prawa, stale się zdarzają. Dotyczy to także niszczenia miejsc lęgowych a nawet zabijania piskląt w czasie wycinki krzewów i drzew oraz przed remontami domów. Zabójczy dla ptaków, szczególnie w okresie lęgowym jest również duży hałas generowany przez koncerty czy festyny i inne imprezy. Może to powodować duże straty w lęgach. </Text>
+                </View>
